@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">project256</string>
+    <string name="explorer_the_nworld_with_us">Explorer the\nWorld with us</string>
+    <string name="lorem_ipsum_dolor_sit_amet_nconsectetur_adipiscing_elit_sed_do_eiusmod_tempor">Lorem ipsum dolor sit amet, \nconsectetur adipiscing elit,sed do eiusmod tempor.</string>
+    <string name="get_started">Get Started</string>
+    <string name="hi_alex">Hi, Alex</string>
+    <string name="street_address_city">Street,Address,City...</string>
+    <string name="search">Search</string>
+    <string name="enjoy_your_journet_nwithout_limits">Enjoy your journet\nwithout limits</string>
+</resources>
